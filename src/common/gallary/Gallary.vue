@@ -54,7 +54,7 @@ export default {
     right: 0
     top: 0
     bottom: 0
-    background: #000
+    background: rgba(0,0,0,0.8)
     .wrapper{
       width: 100%
       .gallary-img{
